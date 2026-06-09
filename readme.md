@@ -12,7 +12,7 @@ By open-sourcing this repository, we aim to support reproducibility and facilita
 ## 🗂 Repository Structure
 ```text
 ├── data/
-│   ├── Annotated_lyrics_652.csv    # The 652-segment ground-truth dataset annotated manually
+│   ├── Annotated_lyrics_652_H.csv    # The 652-segment ground-truth dataset annotated manually
 │   └── data_dictionary.md          # Explanation of columns and metrics
 ├── interface/
 │   ├── annotator.html              # Source code for the annotation interface
